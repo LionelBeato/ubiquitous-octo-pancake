@@ -10,5 +10,4 @@ public class DefaultController {
     public String getMessage() {
         return "Hello, I am using CI/CD!";
     }
-
 }
